@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Popularity Predictor",
+  "description": "A web application to predict the potential viewership of a YouTube video based on key metrics like likes, comments, and publish time. Features a modern, dark-themed glassmorphism UI.",
+  "requestFramePermissions": []
+}
